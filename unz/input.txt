@@ -1,0 +1,7 @@
+Frank "The_Diary_of_a_Young_Girl" Autobiography 2000
+Hill "Think_and_Grow_Rich" Non-fiction 1900
+Mitchell "Gone_with_the_Wind" Historical_Fiction 1750
+Brown "The_Da_Vinci_Code" Thriller 1000
+Coelho "The_Alchemist" Adventure 1500
+Tolkien "The_Lord_of_the_Rings" Adventure 5000
+Rowling "Harry_Potter" Fantasy 5000
